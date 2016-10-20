@@ -6,4 +6,4 @@
 3. Create 'run.py' in './manipulators/'
 4. Code your processing logic in 'def all_functions():' in './manipulators/run.py'
 5. To run the processor, use:
-`python csv_processor.py ./input/dataset.csv ./output/results.csv`	
+`python csv_processor.py ./input/dataset_in.csv ./output/dataset_out.csv`	
